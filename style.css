@@ -71,7 +71,8 @@ input[type="color"]::-moz-color-swatch{
     margin-top: 10px;
     border: 1px solid #dddddd;
     padding: 20px;
-    height: 50vh;
+    width: 1460px
+    height: 700px;
 }
 .active{
     background-color: #e0e9ff;
