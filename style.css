@@ -9,9 +9,10 @@ body{
 }
 .container{
     background-color: aliceblue;
-    width:90vmin;
+    width: 90vmin;
     padding: 50px 30px;
-    
+    position: absolute;
+    transform: translate(-50%,-50%);
     left: 50%;
     top: 50%;
     border-radius: 10px;
@@ -70,7 +71,7 @@ input[type="color"]::-moz-color-swatch{
     margin-top: 10px;
     border: 1px solid #dddddd;
     padding: 20px;
-    width:50vh;
+    height: 50vh;
 }
 .active{
     background-color: #e0e9ff;
