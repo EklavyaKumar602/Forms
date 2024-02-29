@@ -9,7 +9,8 @@ body{
 }
 .container{
     background-color: aliceblue;
-    width: 90vmin;
+    width: 1450px;
+    height:700px;
     padding: 50px 30px;
     position: absolute;
     transform: translate(-50%,-50%);
